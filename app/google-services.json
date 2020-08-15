@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "533875937458",
+    "firebase_url": "https://stafftrack-285611.firebaseio.com",
+    "project_id": "stafftrack-285611",
+    "storage_bucket": "stafftrack-285611.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533875937458:android:51a00daf60fc45925bf9ab",
+        "android_client_info": {
+          "package_name": "com.islamozcelik.stafftrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533875937458-s4q6pgtb8fnl6naggmp18pd0ksf83a0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY_e3XSN_nHvRhwdMxtj6nMx2bF0YwmQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533875937458-s4q6pgtb8fnl6naggmp18pd0ksf83a0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
